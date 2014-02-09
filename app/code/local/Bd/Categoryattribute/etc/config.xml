@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Bd_Categoryattribute>
+      <version>0.1.0</version>
+    </Bd_Categoryattribute>
+  </modules>
+  <global>
+    <helpers>
+      <categoryattribute>
+        <class>Bd_Categoryattribute_Helper</class>
+      </categoryattribute>
+    </helpers>
+  </global>
+</config> 
